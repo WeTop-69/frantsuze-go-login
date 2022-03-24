@@ -8,7 +8,7 @@ function Login(e) {
         let login = document.getElementById("logID").value;
         let pass = document.getElementById("passID").value;
         if (login == "123" && pass == "123"){
-            window.location.assign('site-frantsuz-go/firebase-taxi-app');
+            window.location.assign('https://wetop-69.github.io/site-frantsuz-go/');
             e.preventDefault()
         } else {
             

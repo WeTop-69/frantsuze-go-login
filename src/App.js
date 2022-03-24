@@ -10,9 +10,9 @@ function App() {
     <div className="App">
        <BrowserRouter>
         <Routes>
-          <Route path="frantsuz-go-login/" element={<Login/>} />
-          <Route path="https://wetop-69.github.io/site-frantsuz-go/e" element={<Main/>} />
-          <Route path="https://wetop-69.github.io/site-frantsuz-go/firebase-taxi-app-info" element={<InfoCar/>} />
+          <Route path="frantsuze-go-login/" element={<Login/>} />
+          <Route path="site-frantsuz-go/e" element={<Main/>} />
+          <Route path="firebase-taxi-app-info" element={<InfoCar/>} />
         </Routes>
       </BrowserRouter>
     </div>
